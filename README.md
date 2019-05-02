@@ -16,3 +16,5 @@ Here are some screenshoot from browser and spyder IDE
 
 
 just a simple python code, hope you enjoy~ peace
+
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
